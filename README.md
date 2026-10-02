@@ -1,6 +1,6 @@
 # 🏫 CBSE LOC Data Validator & Auto-Cleaner
 
-An automated Excel VBA tool designed to clean, standardize, and validate Class XI List of Candidates (LOC) registration data across 50+ schools prior to uploading to the CBSE Board portal.
+An automated Excel VBA tool designed to clean, standardize, and validate List of Candidates (LOC) registration data across 50+ schools prior to uploading to the CBSE Board portal.
 
 ## 🎯 Problem Statement
 School admin departments manually enter student enrollment data across 33+ columns. Inconsistent date formats, lower/mixed casing, and missing mandatory fields often result in portal upload rejections.
